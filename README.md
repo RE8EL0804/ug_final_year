@@ -6,6 +6,9 @@ The main objective of this project is to develop an efficient and adaptive anoma
 ## Tech Stack
 <ul><li><b>Mendeley</b>-To collect the Journals</li>
 <li><b>Jira Software</b>- To prepare Agile Gant Chart</li></ul>
+<li><B>Python 2.7</B></li>
+<li><b>Raspberry PI</b></li>
+
 
 
 ## Agile Gantt chart with Project Managment
