@@ -2,7 +2,7 @@ import modules_amds_df as magpie
 
 
 if __name__ == '__main__':
-    filepath = "/Users/mac/Dropbox/magpie/datastore/"
+    filepath = "D:/college/8th semester/test/Datasets"
     label = 0
 
     if label == 0:
